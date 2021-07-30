@@ -177,6 +177,7 @@ background: white;
 .espacio{
   position: relative;
   height: 20px;
+  background: blue;
 }
 
 .PiePágina {
