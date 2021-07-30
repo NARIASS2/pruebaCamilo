@@ -169,6 +169,28 @@ overflow: Hidden;
   text-align: justify;  
 }
 
+/*****************************/
+
+.espacio{
+  position: relative;
+  height: 20px;
+}
+
+.PiePágina {
+  display: flex;
+  justify-content: center;
+  position: relative;
+  height: 105px;
+  background: #E67E22;
+  align-content: center;
+}
+
+.PiePágina footer{
+  text-align: center;
+  color:White;
+}
+
+
 
 
 
