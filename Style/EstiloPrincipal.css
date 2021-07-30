@@ -145,6 +145,31 @@ border-radius: 15px;
 overflow: Hidden;
 }
 
+.tienda img {
+ position:relative;
+ top: 5px;
+ width:150px;
+ height: 100px;
+ border-radius: 15px;
+}
+
+.tienda div {
+ width: 100%;
+ height: 50px;
+ background: #32CD32;
+}
+  
+.tienda p {
+ text-align: justify; 
+ padding:10px;
+}
+
+
+.tienda h3 {
+  text-align: justify;  
+}
+
+
 
 
 
